@@ -1,1 +1,1 @@
-API testing for an booking app
+API testing for an ticket booking app
